@@ -14,7 +14,8 @@
 	<ul class="links">
         {% for page in site.pages %}
 		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" }}/">{{ page.title }}</a></li>
+<!--		        <li><a href="{{ "" }}/">{{ page.title }}</a></li>-->
+            {%    continue %}
 	    	{% endif %}
 		{% endfor %}
 		{% for page in site.pages %}
@@ -24,7 +25,7 @@
 		{% endfor %}
 	</ul>
 	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
+		<li><a href="#" class="button special fit">Home</a></li>
+<!--		<li><a href="#" class="button fit">Log In</a></li>-->
 	</ul>
 </nav>
