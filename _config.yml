@@ -3,7 +3,7 @@ title: Kangbo Lu
 subtitle: Data Scientist Consultant
 email: kblu@ucdavs.edu
 description: My name is Kangbo Lu. I am a software engineer, data scientist, and fingerstyle guitarist.
-baseurl: ""
+baseurl: "home"
 url:
 author: Kangbo Lu
 street_address: Dag hammarskjöld 3477
@@ -20,8 +20,7 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url:https://github.com/KangboLu
+github_url: gitlab_url:https://github.com/KangboLu
 googleplus_url: 
 instagram_url: 
 linkedin_url: https://www.linkedin.com/in/kangbolu/
