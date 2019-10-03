@@ -11,7 +11,7 @@ city: Vitacura, Santiago
 state: Región Metropolitana de Santiago
 zip_code: 7630000
 country: Chile
-#phone: (716) 555-5555
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
