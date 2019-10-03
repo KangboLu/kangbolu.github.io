@@ -2,7 +2,7 @@
 title: Kangbo Lu
 subtitle: Data Scientist Consultant
 email: kblu@ucdavs.edu
-description: My name is Kangbo Lu. I am a software engineer, data scientist, and fingerstyle guitarist.
+description: Software engineer, data scientist, and fingerstyle guitarist.
 baseurl: "home"
 url:
 author: Kangbo Lu
@@ -11,7 +11,7 @@ city: Vitacura, Santiago
 state: Región Metropolitana de Santiago
 zip_code: 7630000
 country: Chile
-phone:
+phone: Unavaialbe for public
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
