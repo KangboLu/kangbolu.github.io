@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Bio
+title: My Biography
 nav-menu: true
 ---
 
