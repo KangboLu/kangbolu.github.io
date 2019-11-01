@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Current Work at the United Nations
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: LAC Labor Market Dynamics 
+image: assets/images/UN_Office.png
 nav-menu: true
 ---
 More than 1 million Chilean people protested in Santiago, the capital of Chile, to demand higher wages, more jobs, better living conditions, and removal of cabinet members. I am working as a data scientist at the UN to provide data solutions to present the labor market dynamics to all the labor ministers of Latin America and Caribean countries and assisting economists in designing better labor policies for sustainable economic developments.
