@@ -2,6 +2,7 @@
 layout: post
 title: My Biography
 description: Education, Work, and Music
+image: assets/images/biography.png
 nav-menu: true
 ---
 My name is Kangbo Lu. I am a full-stack software engineer, data science consultant, and fingerstyle guitarist. 
