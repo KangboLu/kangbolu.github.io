@@ -5,7 +5,7 @@ description: Education, Work, and Music
 image: assets/images/biography.png
 nav-menu: true
 ---
-My name is Kangbo Lu. I am a full-stack software engineer, data science consultant, and fingerstyle guitarist. 
+My name is Kangbo Lu. I am a full-stack software engineer, a data science consultant, and a fingerstyle guitarist. 
 
 I am currently working at the United Nations Economic Commission for Latin America and the Caribbean (Comisión Económica para América Latina y el Caribe) as a data scientist. We study the online freelancing labor market and the local full-time and part-time labor market for 33 countries in Latin America and the Caribean. After work, I participate in [Kaggle](https://www.kaggle.com/agilesifaka) Competition(1 silver medal) and Kaggle  Discussion(2 silver medals and 49 bronze medals).
 
