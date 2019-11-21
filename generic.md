@@ -16,7 +16,7 @@ The United Nations and governments in LAC countries don't have time-series data 
 		<div class="6u"><span class="image fit"><img src="assets/images/local_industry_demand_spatial.png" alt="" /></span></div>
 		<div class="6u$"><span class="image fit"><img src="assets/images/local_industry_demand_spatial_normalized.png" alt="" /></span></div>
 		<!-- Break -->
-		<div class="7u"><span class="image fit"><img src="assets/images/freelancing_industry_supply_spatial.png" alt="" /></span></div>
-		<div class="5u$"><span class="image fit"><img src="assets/images/local_industry_demand_radar_chart.png" alt="" /></span></div>
+		<div class="6u"><span class="image fit"><img src="assets/images/freelancing_industry_supply_spatial.png" alt="" /></span></div>
+		<div class="6u$"><span class="image fit"><img src="assets/images/local_industry_demand_radar_chart.png" alt="" /></span></div>
 	</div>
 </div>
