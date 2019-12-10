@@ -7,7 +7,7 @@ nav-menu: true
 ---
 My name is Kangbo Lu. I am a full-stack software engineer, a data science consultant, and a fingerstyle guitarist.
 
-I am [currently working](https://kangbolu.github.io/generic.html) at the United Nations Economic Commission for Latin America and the Caribbean (Comisión Económica para América Latina y el Caribe) as a data scientist. We study the online freelancing labor market and the local full-time and part-time labor market for 33 countries in Latin America and the Caribean. After work, I participate in [Kaggle](https://www.kaggle.com/agilesifaka) Competition(1 bronze medal) and Kaggle  Discussion(2 silver medals and 56 bronze medals).
+I am [currently working](https://kangbolu.github.io/generic.html) at the United Nations Economic Commission for Latin America and the Caribbean (Comisión Económica para América Latina y el Caribe) as a data scientist. We study the online freelancing labor market and the local full-time and part-time labor market for 33 countries in Latin America and the Caribean. After work, I participate in [Kaggle](https://www.kaggle.com/agilesifaka) Competition(1 bronze medal) and Kaggle  Discussion(2 silver medals and 61 bronze medals).
 
 I have a Mathematics associate degree and a Computer Science associate degree from Diablo Valley College. At DVC, I was the Chief Newsletter Editor at Alpha Gamma Sigma Honor Society for one term. I am still a Software Maintainer at dvcoders since 2017. The student organization has grown to more than 400 members in our Slack group. I later transferred to the University of California, Davis, to continue my study of Computer Science. 
 
